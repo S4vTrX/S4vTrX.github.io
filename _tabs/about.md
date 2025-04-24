@@ -28,7 +28,6 @@ Hi, I’m **Arinjoy**, a Red Team Operator and Offensive Security Researcher wit
 
 ## 🎓 Education & Certifications
 
-- **B.Tech in Electronics and Communication Engineering** – GL Bajaj Institute of Technology and Management
 - **Certified Red Team Expert (CRTE)** – Altered Security  
 - **Certified Red Team Professional (CRTP)** – Pentester Academy  
 - **Certified Ethical Hacker (CEH Practical)** – EC-Council  
