@@ -1,43 +1,55 @@
-# Chirpy Starter
+# 👋 Hi there, I'm Arinjoy
 
-[![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)][gem]&nbsp;
-[![GitHub license](https://img.shields.io/github/license/cotes2020/chirpy-starter.svg?color=blue)][mit]
+🎯 **Red Team Operator | Malware Analyst | Offensive Security Researcher**
 
-When installing the [**Chirpy**][chirpy] theme through [RubyGems.org][gem], Jekyll can only read files in the folders
-`_data`, `_layouts`, `_includes`, `_sass` and `assets`, as well as a small part of options of the `_config.yml` file
-from the theme's gem. If you have ever installed this theme gem, you can use the command
-`bundle info --path jekyll-theme-chirpy` to locate these files.
+Welcome to my GitHub! I specialize in adversary emulation, malware development, Active Directory exploitation, and red/purple team operations. My mission? To break things ethically, understand how they work, and help build stronger defenses.
 
-The Jekyll team claims that this is to leave the ball in the user’s court, but this also results in users not being
-able to enjoy the out-of-the-box experience when using feature-rich themes.
+---
 
-To fully use all the features of **Chirpy**, you need to copy the other critical files from the theme's gem to your
-Jekyll site. The following is a list of targets:
+## 🧠 About Me
 
-```shell
-.
-├── _config.yml
-├── _plugins
-├── _tabs
-└── index.html
-```
+- 🕵️ Focused on **initial access payloads**, **post-exploitation**, and **stealthy attack techniques** like process hollowing, DLL injection, and fileless malware.
+- 🛠️ Developer of custom **malware & offensive tooling** that evades modern AV/EDR solutions.
+- 🧬 Deep into **reverse engineering**, **malware analysis**, and **debugging shellcode** using IDA Pro, x64dbg/x32dbg, Ghidra, and REMnux.
+- 🧪 Contributor to open-source security projects and **automated analysis tools** using Python.
+- 🔬 Passionate about emulating **APT-level TTPs** mapped to MITRE ATT&CK.
 
-To save you time, and also in case you lose some files while copying, we extract those files/configurations of the
-latest version of the **Chirpy** theme and the [CD][CD] workflow to here, so that you can start writing in minutes.
+---
 
-## Usage
+## 🧰 Key Skills
 
-Check out the [theme's docs](https://github.com/cotes2020/jekyll-theme-chirpy/wiki).
+- Malware Development (C, C++, C#, Python)
+- Malware Analysis & Sandboxing
+- Initial Access Techniques (LNK, Maldocs, ClickOnce)
+- Exploit & Payload Development
+- Detection Rule Creation (YARA, Snort, ClamAV)
+- Git for version control & security tooling collaboration
 
-## Contributing
+---
 
-This repository is automatically updated with new releases from the theme repository. If you encounter any issues or want to contribute to its improvement, please visit the [theme repository][chirpy] to provide feedback.
+## 📜 Certifications
 
-## License
+- 🛡️ **Certified Red Team Expert (CRTE)** – Altered Security  
+- 🎯 **Certified Red Team Professional (CRTP)** – Pentester Academy  
+- 🔐 **Certified Ethical Hacker (CEH Practical)** – EC-Council  
+- ☁️ **Certificate of Cloud Security Knowledge (CCSK)** – Cloud Security Alliance  
 
-This work is published under [MIT][mit] License.
+---
 
-[gem]: https://rubygems.org/gems/jekyll-theme-chirpy
-[chirpy]: https://github.com/cotes2020/jekyll-theme-chirpy/
-[CD]: https://en.wikipedia.org/wiki/Continuous_deployment
-[mit]: https://github.com/cotes2020/chirpy-starter/blob/master/LICENSE
+## 🚀 Projects
+
+- [PoisonSting](https://github.com/S4vTrX/PoisonSting) – Phishing & payload delivery tool for initial access & AppLocker bypass.
+- ...more coming soon. Stay tuned!
+
+---
+
+## 💬 Let’s Connect
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/arinjoy-m-973668126)
+- 🐦 [Twitter/X](https://x.com/Arinjoy20)
+
+> 📢 This GitHub is for **educational and research purposes only**. Stay ethical. Stay sharp. Stay curious.
+
+---
+
+Thanks for visiting!
