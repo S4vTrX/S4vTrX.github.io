@@ -7,7 +7,7 @@ order: 4
 > ⚠️ **Important Notice**: This GitHub page is intended strictly for educational and research purposes. All opinions expressed are my own and do not represent any current or former organizations I’m affiliated with. The materials here are meant to promote ethical hacking and cybersecurity awareness. Use responsibly, legally, and ethically.
 {: .prompt-tip }
 
-# Welcome to My GitHub 👋
+# Welcome to My GitHub Page 👋👋
 
 Hi, I’m **Arinjoy**, a Red Team Operator and Offensive Security Researcher with a focus on advanced adversary simulation, malware development, and Active Directory exploitation. I specialize in stealthy attack techniques, initial access vectors, and post-exploitation tactics that challenge even modern EDRs and defensive mechanisms.
 
