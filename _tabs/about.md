@@ -28,10 +28,10 @@ Hi, I’m **Arinjoy**, a Red Team Operator and Offensive Security Researcher wit
 
 ## 🛡️ Certifications
 
-- **Certified Red Team Expert (CRTE)** – Altered Security  
-- **Certified Red Team Professional (CRTP)** – Pentester Academy  
-- **Certified Ethical Hacker (CEH Practical)** – EC-Council  
-- **Certificate of Cloud Security Knowledge (CCSK)** – Cloud Security Alliance  
+- **Certified Red Team Expert (CRTE)**
+- **Certified Red Team Professional (CRTP)**  
+- **Certified Ethical Hacker (CEH Practical)**  
+- **Certificate of Cloud Security Knowledge (CCSK)**
 
 ## 🌐 Let’s Collaborate
 
