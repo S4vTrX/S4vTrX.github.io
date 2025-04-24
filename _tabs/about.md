@@ -34,7 +34,7 @@ Hi, I’m **Arinjoy**, a Red Team Operator and Offensive Security Researcher wit
 
 I’m passionate about sharing knowledge, mentoring aspiring professionals, and advancing offensive security practices. I regularly contribute to open-source tools, participate in CTFs, and present findings to the cybersecurity community.
 
-If you're interested in red teaming, malware R&D, or adversary simulation—or just want to talk shop—connect with me:
+Let’s connect—whether you’re deep in the tradecraft or just looking to push boundaries and explore the offensive side of cybersecurity.
 
 - [LinkedIn](https://www.linkedin.com/in/arinjoy-m-973668126)  
 - [Twitter / X](https://x.com/Arinjoy20)
