@@ -26,7 +26,7 @@ Hi, I’m **Arinjoy**, a Red Team Operator and Offensive Security Researcher wit
 - **PoisonSting**: A Python-based tool for delivering phishing payloads and bypassing AppLocker.
 
 
-## 🎓 Education & Certifications
+## 🛡️ Certifications
 
 - **Certified Red Team Expert (CRTE)** – Altered Security  
 - **Certified Red Team Professional (CRTP)** – Pentester Academy  
