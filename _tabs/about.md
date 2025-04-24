@@ -1,8 +1,4 @@
----
-# the default layout is 'page'
-icon: fas fa-info-circle
-order: 4
----
+
 
 > ⚠️ **Important Notice**: This GitHub page is intended strictly for educational and research purposes. All opinions expressed are my own and do not represent any current or former organizations I’m affiliated with. The materials here are meant to promote ethical hacking and cybersecurity awareness. Use responsibly, legally, and ethically.
 {: .prompt-tip }
